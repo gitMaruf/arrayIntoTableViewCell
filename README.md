@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Documentation/iOS-Apps-gone-Free-New.jpg)
 
 # Show Array Into tableView Cell
 
@@ -24,5 +24,5 @@ We show something into a tableView Cell
 
 >This is a companion project to JOY Online School Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.joyonlineschool.com/)
 
-![End Banner](Documentation/readme-end-banner.png)
+![End Banner](Documentation/end.png)
 
