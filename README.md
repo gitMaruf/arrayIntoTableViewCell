@@ -16,13 +16,13 @@ We show something into a tableView Cell
 * tableView Cell and Show Data into the cell
 
 
-## Fix for Cocoapods v1.0.1 and below
+## Let's Learn
 
 ```swift
 
 ```
 
->This is a companion project to JOY Online School Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.joyonlineschool.com/)
+>This is a companion project to JOY Online School Complete App Developement Bootcamp, check out the full course at [www.joyonlineschool.com](https://www.joyonlineschool.com/)
 
-![End Banner](Documentation/end.png)
+![End](Documentation/GlassOddballBlackwidowspider-size_restricted.gif)
 
