@@ -24,5 +24,4 @@ We show something into a tableView Cell
 
 >This is a companion project to JOY Online School Complete App Developement Bootcamp, check out the full course at [www.joyonlineschool.com](https://www.joyonlineschool.com/)
 
-![End](Documentation/GlassOddballBlackwidowspider-size_restricted.gif)
 
