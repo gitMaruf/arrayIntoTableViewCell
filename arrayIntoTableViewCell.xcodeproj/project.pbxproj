@@ -24,6 +24,7 @@
 		3BA250BF2276B94E003D21F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BA250C22276B94E003D21F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3BA250C42276B94E003D21F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BE633EC2277347F00C5012E /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		3BA250AC2276B94C003D21F1 = {
 			isa = PBXGroup;
 			children = (
+				3BE633EC2277347F00C5012E /* Header.h */,
 				3B32DA0B2276C0E8006C27C7 /* README.md */,
 				3BA250B72276B94C003D21F1 /* arrayIntoTableViewCell */,
 				3BA250B62276B94C003D21F1 /* Products */,
